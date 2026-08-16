@@ -15,4 +15,5 @@ This project comes with a `Makefile` for easy compilation.
 1. Open your terminal.
 2. Run the following command:
    ```bash
+   make
    make run
