@@ -1,9 +1,9 @@
-# GLSL Minifier 🚀
+# GLSL Minifier 
 
 A high-performance, lightweight GLSL (OpenGL Shading Language) minifier written in Modern C++ (C++23). 
 It reduces the file size of your shader code, making it load and compile faster.
 
-## Features ✨
+## Features 
 - **Header-only library:** Just drop `GLSLminifier.hpp` into your project.
 - **Fast:** Optimized C++ code.
 - **Efficient:** High compression ratio without breaking the shader logic.
